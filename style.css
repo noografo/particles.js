@@ -1,0 +1,27 @@
+body{
+  margin: 0;
+  font: normal 16px Arial, Helvetica,sans-serif;
+  color: #333;
+}
+
+#particles-js{
+  background-color: firebrick;
+  height: 100vh;
+}
+
+#login{
+  background: #fff;
+  opacity: 0.9;
+  padding: 2em;
+  border: #ccc 2px solid;
+  position: absolute;
+  top: 100px;
+  left: 50px;
+}
+
+#login input[type="text"], #login input[type="password"]{
+  font: normal 14px Arial, Helvetica,sans-serif;
+  padding: 7px;
+  margin-bottom: 10px;
+  border:  1px #ccc solid;
+}
